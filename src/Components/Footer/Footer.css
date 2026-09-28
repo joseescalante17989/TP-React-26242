@@ -1,0 +1,28 @@
+footer {
+
+    background-color: darkolivegreen;
+    width: 100%;
+    padding: 1rem;
+    color: whitesmoke ;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+footer .nav-list {
+    align-items: center;
+    font-weight: bold; 
+}    
+
+footer p {
+    text-align: center;
+    margin-top: 20px;
+}
+footer li{
+    transition: color 0.4s ease;   
+    cursor: pointer;
+    font-size: 2rem;
+    gap: 2rem;
+    
+    &:hover{
+        color: coral;
+    }
+}

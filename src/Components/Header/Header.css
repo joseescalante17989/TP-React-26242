@@ -1,0 +1,18 @@
+header {
+    background-color: darkolivegreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5%;
+}
+
+.logo-conteiner img{
+    width: 4rem;
+    height: 4rem;
+    gap: 1rem;
+}
+.logo-conteiner span{
+    font-size: 3rem;
+    margin-left: 2.5rem;
+    font-weight: bold;
+    color: white;
+}

@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+import "./Footer.css";
 
 export const Footer = () => {
     return (
@@ -13,6 +13,7 @@ export const Footer = () => {
                     </li>
                 </ul>
             </nav>
+            <p>©2026 Pizzeria Escalante. Todos los derechos reservados</p>
         </footer>
     );
 };
