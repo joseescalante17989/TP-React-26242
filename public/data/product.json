@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name":"Muzzarella",
+    "description":"Salsa de tomates, hojas de albahaca y muzzarella",
+    "price": 7000,
+    "image": "/img/muzza.jpg"
+},
+    {
+    "id": 2,
+    "name":"Napolitana",
+    "description":"Salsa de tomates, hojas de albahaca, muzzarella y rodajas de tomate",
+    "price": 8000,
+    "image": "/img/tomate.jpg"
+},
+    {
+    "id": 3,
+    "name":"Fugazeta",
+    "description":"Cebolla y muzzarella",
+    "price": 8000,
+    "image": "/img/cebolla.jpg"
+},
+    {
+    "id": 4,
+    "name":"Jamón solo",
+    "description":"Salsa de tomates, hojas de albahaca, muzzarella y fetas de jamón",
+    "price": 8000,
+    "image": "/img/jamon.jpg"
+},
+    {
+    "id": 5,
+    "name":"Jamón y morrones",
+    "description":"Salsa de tomates, hojas de albahaca, muzzarella, fetas de jamón y morrones asados", 
+    "price": 10000,
+    "image": "/img/jamon-morron.jpg"
+},
+    {
+    "id": 6,
+    "name":"4 quesos",
+    "description":"Salsa de tomates, hojas de albahaca, muzzarella, parmesano, reggianito y roquefort",
+    "price": 10000,
+    "image": "/img/4quesos.jpg"
+},
+    {
+    "id": 7,
+    "name":"Calabresa",
+    "description":"Salsa de tomates, hojas de albahaca, muzzarella y rodajas de longaniza",
+    "price": 10000,
+    "image": "/img/calabresa.jpg"
+}
+]
