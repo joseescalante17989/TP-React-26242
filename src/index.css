@@ -26,3 +26,7 @@ ul {
     list-style: none;
     gap: 1rem;
 }
+img{
+    display: block;
+    max-width: 100%;
+}
